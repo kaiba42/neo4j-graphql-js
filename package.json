@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "graphql": "^14.2.1",
-    "graphql-auth-directives": "^2.1.0",
+    "graphql-auth-directives": "github:kaiba42/graphql-auth-directives#master",
     "lodash": "^4.17.11",
     "neo4j-driver": "^1.7.3"
   },
